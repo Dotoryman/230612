@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class CharEx {
 	public static void main(String[] args) {
 		try {
-			read1();
+			write1();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
