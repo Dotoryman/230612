@@ -56,8 +56,8 @@ public class StudentEx {
 			for(Entry<Integer, String> ent : entry) {
 				System.out.printf("학번 : %d , 이름 : %s , 점수 : %d\n", ent.getKey(), ent.getValue(), val);
 			}
-			System.out.printf("평균점수는 %d 점입니다. ", );
-			System.out.printf("최고점수는 %d 점이고 최고점수를 획득한 학생은 %s 학생입니다.", );
+//			System.out.printf("평균점수는 %d 점입니다. ", );
+//			System.out.printf("최고점수는 %d 점이고 최고점수를 획득한 학생은 %s 학생입니다.", );
 		}
 		fr.flush();
 		fr.close();
