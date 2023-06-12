@@ -11,7 +11,7 @@ public class Product { // 637page
 	}
 
 	public void setPno(int pno) {
-		this.pno = pno;
+		this.pno = pno;  
 	}
 
 	public String getName() {
